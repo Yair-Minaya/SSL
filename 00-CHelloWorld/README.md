@@ -1,0 +1,3 @@
+-Compilador : GCC (MSYS2)
+-Versión del compilador : 15.2.0
+-Versión del lenguaje soportado : C23
